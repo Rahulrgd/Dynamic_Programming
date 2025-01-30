@@ -2,7 +2,7 @@ package CodeWithBabbar;
 
 import java.util.Arrays;
 
-public class L107_CutIntoSegments5 {
+public class L107_CutIntoSegments6 {
 
   public static void main(String[] args) {
     int[] cuts = { 1, 1, 4 };
